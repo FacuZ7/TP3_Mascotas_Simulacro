@@ -91,5 +91,5 @@
   </group>
   <path
       android:pathData="M24,16h140v156h-140z"
-      android:fillColor="url(#pattern0)"/>
+      />
 </vector>

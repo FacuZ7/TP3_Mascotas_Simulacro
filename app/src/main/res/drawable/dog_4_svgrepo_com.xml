@@ -59,6 +59,5 @@
       android:fillColor="#513831"
       android:fillType="evenOdd"/>
   <path
-      android:pathData="M24,16h140v156h-140z"
-      android:fillColor="url(#pattern0)"/>
+      android:pathData="M24,16h140v156h-140z" />
 </vector>

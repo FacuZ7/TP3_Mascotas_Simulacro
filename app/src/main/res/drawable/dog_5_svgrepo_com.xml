@@ -72,6 +72,5 @@
         android:fillColor="#D3D3D3"/>
   </group>
   <path
-      android:pathData="M24,16h140v156h-140z"
-      android:fillColor="url(#pattern0)"/>
+      android:pathData="M24,16h140v156h-140z" />
 </vector>
