@@ -2,4 +2,9 @@
     <string name="app_name">TP3_Mascotas_Simulacro</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ss_btn_getStarted">¡Get started!</string>
+    <string name="ss_txt_info1">Information1</string>
+    <string name="ss_txt_info2">Information2</string>
+    <string name="ss_txt_info3">Information3</string>
+
 </resources>
